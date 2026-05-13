@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class somarate0 { void main(){
+public class somarate0 {
+    void main(){
     Scanner sc = new Scanner(System.in);
 
     int digite = 0;
