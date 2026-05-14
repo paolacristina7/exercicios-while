@@ -7,8 +7,7 @@ public class advinheonumber {   static void main() {
     do {
         IO.println("Digite um numero");
        sugestao= sc.nextInt();
-
     }while (sugestao!=numero);
-    IO.println("Parabens vc acertou!");
+    IO.println("arrasou!");
 }}
 
